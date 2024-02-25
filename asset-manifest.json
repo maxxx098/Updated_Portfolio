@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Updated_Portfolio/static/css/main.43799b3b.css",
+    "main.js": "/Updated_Portfolio/static/js/main.2847848d.js",
+    "static/media/sy.jpg": "/Updated_Portfolio/static/media/sy.1f981b17b77a5677af5f.jpg",
+    "static/media/symon.pdf": "/Updated_Portfolio/static/media/symon.55fdee3f139417c1576a.pdf",
+    "static/media/about-pic.png": "/Updated_Portfolio/static/media/about-pic.04ea369877f81e955c92.png",
+    "static/media/testimonial3.png": "/Updated_Portfolio/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/work2.jpg": "/Updated_Portfolio/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/testimonial2.png": "/Updated_Portfolio/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/work4.jpg": "/Updated_Portfolio/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/Updated_Portfolio/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/Updated_Portfolio/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/Updated_Portfolio/static/media/work3.135e9065694bc13dc31d.jpg",
+    "static/media/testimonial1.png": "/Updated_Portfolio/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/Updated_Portfolio/index.html",
+    "main.43799b3b.css.map": "/Updated_Portfolio/static/css/main.43799b3b.css.map",
+    "main.2847848d.js.map": "/Updated_Portfolio/static/js/main.2847848d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43799b3b.css",
+    "static/js/main.2847848d.js"
+  ]
+}
