@@ -1,1 +1,1 @@
-Hello! This template is not for anyone, just let me remind you that you will encounter some errors when code this type of website... But I;m happy to share to you the designs and codes for this website.. Happy Coding!
+Hello! This template is not for anyone, just let me remind you that you will encounter some errors when code this type of website... But I'm happy to share to you the designs and codes for this website.. Happy Coding!
