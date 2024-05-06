@@ -127,7 +127,7 @@ const Contacts = () => {
                     required></textarea>
                 </div>
 
-             <div className="btn-container">
+             <div style={{justifyContent:`center` , display:`flex`}}  className="btn-container">
              <button  href="" className='button button--flex'>Send Message
              <svg
                   class="button__icon"

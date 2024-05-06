@@ -1,7 +1,7 @@
 import React from 'react'
 import './about.css'
 import img4 from "../../assets/about-pic.png";
-import CV from '../../assets/symon.pdf';
+import CV from '../../assets/My Resme.pdf';
 const About = () => {
   return (
    <div>
@@ -21,7 +21,7 @@ const About = () => {
       <div className="about_box">
         <i class='bx bx-award about_icon'></i>
         <h3 className="about_title">Experience</h3>
-          <span className="about_subtitle">4+ Month's Working</span>
+          <span className="about_subtitle">1 Year's Working</span>
        
       </div>
 
