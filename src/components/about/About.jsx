@@ -21,7 +21,7 @@ const About = () => {
       <div className="about_box">
         <i class='bx bx-award about_icon'></i>
         <h3 className="about_title">Experience</h3>
-          <span className="about_subtitle">2 Year's Working</span>
+          <span className="about_subtitle">2 Year's Working jahgdahfdhsvf</span>
        
       </div>
 
