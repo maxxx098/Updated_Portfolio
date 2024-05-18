@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Updated_Portfolio/static/css/main.a83012bf.css",
+    "main.js": "/Updated_Portfolio/static/js/main.6a49bfd5.js",
+    "static/media/work7.png": "/Updated_Portfolio/static/media/work7.d16a74f90febffc6db5e.png",
+    "static/media/work8.png": "/Updated_Portfolio/static/media/work8.e70e11c1c3318bb88f74.png",
+    "static/media/work9.png": "/Updated_Portfolio/static/media/work9.57e6b7a8380650b67183.png",
+    "static/media/sy.jpg": "/Updated_Portfolio/static/media/sy.1f981b17b77a5677af5f.jpg",
+    "static/media/Eccommerce.jpg": "/Updated_Portfolio/static/media/Eccommerce.939127b5d66765737e22.jpg",
+    "static/media/Portfolio.jpg": "/Updated_Portfolio/static/media/Portfolio.55d1197b8f38b7b932f7.jpg",
+    "static/media/My Resme.pdf": "/Updated_Portfolio/static/media/My Resme.417caaf233a1ba78b19d.pdf",
+    "static/media/about-pic.png": "/Updated_Portfolio/static/media/about-pic.04ea369877f81e955c92.png",
+    "static/media/testimonial3.png": "/Updated_Portfolio/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/Updated_Portfolio/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "index.html": "/Updated_Portfolio/index.html",
+    "main.a83012bf.css.map": "/Updated_Portfolio/static/css/main.a83012bf.css.map",
+    "main.6a49bfd5.js.map": "/Updated_Portfolio/static/js/main.6a49bfd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a83012bf.css",
+    "static/js/main.6a49bfd5.js"
+  ]
+}
