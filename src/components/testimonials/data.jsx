@@ -1,16 +1,20 @@
-import Image1 from '../../assets/testimonial1.png'
+
 import Image2 from '../../assets/testimonial2.png'
 import Image3 from '../../assets/testimonial3.png'
+import Image4 from '../../assets/Hannah.jpg'
+
 
 
 
 export const Data = [
     {
       id: 1,
-      image: Image1,
-      title: "Jhon Doe",
+      image: Image4,
+      title: "Hannah Ferrera",
       description:
-        "A really good job, all aspects of the project were followed step by step and with good results.",
+        "The web developer values time and commits to working as stated in the contract, ensuring that the client's expectations won't turn into disappointments.",
+      JobTitle: "Client",
+      Date:"May 11, 2024",
     },
     {
       id: 2,

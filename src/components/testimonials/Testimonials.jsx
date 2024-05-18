@@ -30,12 +30,13 @@ const Testimonials = () => {
         }}
         modules={[Pagination]}
         >
-        {Data.map(({id,image, title, description}) => {
+        {Data.map(({id,image, title, description, JobTitle}) => {
           return (
             <SwiperSlide className="testimonial_card" key={id}>
               <img src={image} alt="" className='testimonial_img' style={{height:"100px"}}/>
 
               <h3 className="testimonial_name">{title}</h3>
+          
               <p className="testimonial_description">{description}</p>
             </SwiperSlide>
           )
